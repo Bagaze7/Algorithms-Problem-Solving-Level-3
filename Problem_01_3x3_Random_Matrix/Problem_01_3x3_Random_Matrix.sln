@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85 d17.13
+VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem_01_3x3_Random_Matrix", "Problem_01_3x3_Random_Matrix.vcxproj", "{EC936DC9-AA58-427A-B485-432236A678B6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem_02_Sum_Each_Row_In_Matrix", "..\Problem_02_Sum_Each_Row_In_Matrix\Problem_02_Sum_Each_Row_In_Matrix.vcxproj", "{C1F67996-A332-49EF-A491-FEBB77BA9460}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{EC936DC9-AA58-427A-B485-432236A678B6}.Release|x64.Build.0 = Release|x64
 		{EC936DC9-AA58-427A-B485-432236A678B6}.Release|x86.ActiveCfg = Release|Win32
 		{EC936DC9-AA58-427A-B485-432236A678B6}.Release|x86.Build.0 = Release|Win32
+		{C1F67996-A332-49EF-A491-FEBB77BA9460}.Debug|x64.ActiveCfg = Debug|x64
+		{C1F67996-A332-49EF-A491-FEBB77BA9460}.Debug|x64.Build.0 = Debug|x64
+		{C1F67996-A332-49EF-A491-FEBB77BA9460}.Debug|x86.ActiveCfg = Debug|Win32
+		{C1F67996-A332-49EF-A491-FEBB77BA9460}.Debug|x86.Build.0 = Debug|Win32
+		{C1F67996-A332-49EF-A491-FEBB77BA9460}.Release|x64.ActiveCfg = Release|x64
+		{C1F67996-A332-49EF-A491-FEBB77BA9460}.Release|x64.Build.0 = Release|x64
+		{C1F67996-A332-49EF-A491-FEBB77BA9460}.Release|x86.ActiveCfg = Release|Win32
+		{C1F67996-A332-49EF-A491-FEBB77BA9460}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
