@@ -1,0 +1,8 @@
+﻿  Problem_06_3x3_Ordered_Matrix.cpp
+C:\Users\yassi\source\repos\Algorithms-Problem-Solving-Level-3\Problem_06_3x3_Ordered_Matrix\Problem_06_3x3_Ordered_Matrix.cpp(37,6): warning C4101: 'newArr': unreferenced local variable
+  Generating code
+  2 of 15 functions (13.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Problem_06_3x3_Ordered_Matrix.vcxproj -> C:\Users\yassi\source\repos\Algorithms-Problem-Solving-Level-3\Problem_06_3x3_Ordered_Matrix\x64\Release\Problem_06_3x3_Ordered_Matrix.exe
