@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem_16_Check_Sparse_Matrix", "Problem_16_Check_Sparse_Matrix.vcxproj", "{9D45415E-8791-4070-8104-B035551ECBB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D45415E-8791-4070-8104-B035551ECBB3}.Debug|x64.ActiveCfg = Debug|x64
+		{9D45415E-8791-4070-8104-B035551ECBB3}.Debug|x64.Build.0 = Debug|x64
+		{9D45415E-8791-4070-8104-B035551ECBB3}.Debug|x86.ActiveCfg = Debug|Win32
+		{9D45415E-8791-4070-8104-B035551ECBB3}.Debug|x86.Build.0 = Debug|Win32
+		{9D45415E-8791-4070-8104-B035551ECBB3}.Release|x64.ActiveCfg = Release|x64
+		{9D45415E-8791-4070-8104-B035551ECBB3}.Release|x64.Build.0 = Release|x64
+		{9D45415E-8791-4070-8104-B035551ECBB3}.Release|x86.ActiveCfg = Release|Win32
+		{9D45415E-8791-4070-8104-B035551ECBB3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {381F9BD8-6C40-4DF6-A15F-6E1D07C5A094}
+	EndGlobalSection
+EndGlobal
