@@ -1,0 +1,4 @@
+﻿  Problem_38_Trim_Left_Right_All.cpp
+C:\Users\yassi\source\repos\Algorithms-Problem-Solving-Level-3\Problem_38_Trim_Left_Right_All\Problem_38_Trim_Left_Right_All.cpp(34,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\yassi\source\repos\Algorithms-Problem-Solving-Level-3\Problem_38_Trim_Left_Right_All\Problem_38_Trim_Left_Right_All.cpp(81,12): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  Problem_38_Trim_Left_Right_All.vcxproj -> C:\Users\yassi\source\repos\Algorithms-Problem-Solving-Level-3\Problem_38_Trim_Left_Right_All\x64\Debug\Problem_38_Trim_Left_Right_All.exe
